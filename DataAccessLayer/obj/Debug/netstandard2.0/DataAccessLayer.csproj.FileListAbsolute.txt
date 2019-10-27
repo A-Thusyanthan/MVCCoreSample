@@ -1,0 +1,9 @@
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
+C:\Users\Thushy\Desktop\InterviewAssignment\WebApp\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

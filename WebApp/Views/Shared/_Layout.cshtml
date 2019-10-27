@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.js"></script>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div class="container">
+
+        <div> @RenderBody()</div>
+
+        @if (IsSectionDefined("Scripts")) //Checking View Have Section Or Not and If it have calling section in view loading time
+        {
+            @RenderSection("Scripts", required: true)
+        }
+    </div>
+</body>
+</html>
